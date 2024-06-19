@@ -1,6 +1,6 @@
 package com.gevorg;
 
-public class Main {
+public class QuestRewardGenerator {
 
     public static void main(String[] args) {
         int number = 100;
